@@ -1,0 +1,7 @@
+{
+  "name": "miHuerto",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
